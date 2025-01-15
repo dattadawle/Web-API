@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\bin\Debug\net8.0\Solid2.exe
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\bin\Debug\net8.0\Solid2.deps.json
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\bin\Debug\net8.0\Solid2.runtimeconfig.json
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\bin\Debug\net8.0\Solid2.dll
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\bin\Debug\net8.0\Solid2.pdb
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\obj\Debug\net8.0\Solid2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\obj\Debug\net8.0\Solid2.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\obj\Debug\net8.0\Solid2.AssemblyInfo.cs
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\obj\Debug\net8.0\Solid2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\obj\Debug\net8.0\Solid2.dll
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\obj\Debug\net8.0\refint\Solid2.dll
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\obj\Debug\net8.0\Solid2.pdb
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\obj\Debug\net8.0\Solid2.genruntimeconfig.cache
+C:\Users\hp\source\repos\B24V#CodingStanderds\Solid2\obj\Debug\net8.0\ref\Solid2.dll

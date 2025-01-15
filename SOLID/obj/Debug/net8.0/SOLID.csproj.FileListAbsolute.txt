@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\bin\Debug\net8.0\SOLID.exe
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\bin\Debug\net8.0\SOLID.deps.json
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\bin\Debug\net8.0\SOLID.runtimeconfig.json
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\bin\Debug\net8.0\SOLID.dll
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\bin\Debug\net8.0\SOLID.pdb
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\obj\Debug\net8.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfo.cs
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\obj\Debug\net8.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\obj\Debug\net8.0\SOLID.dll
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\obj\Debug\net8.0\refint\SOLID.dll
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\obj\Debug\net8.0\SOLID.pdb
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\obj\Debug\net8.0\SOLID.genruntimeconfig.cache
+C:\Users\hp\source\repos\B24V#CodingStanderds\SOLID\obj\Debug\net8.0\ref\SOLID.dll

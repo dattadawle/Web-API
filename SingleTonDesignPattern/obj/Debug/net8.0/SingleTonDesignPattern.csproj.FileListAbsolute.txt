@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\bin\Debug\net8.0\SingleTonDesignPattern.exe
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\bin\Debug\net8.0\SingleTonDesignPattern.deps.json
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\bin\Debug\net8.0\SingleTonDesignPattern.runtimeconfig.json
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\bin\Debug\net8.0\SingleTonDesignPattern.dll
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\bin\Debug\net8.0\SingleTonDesignPattern.pdb
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\obj\Debug\net8.0\SingleTonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\obj\Debug\net8.0\SingleTonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\obj\Debug\net8.0\SingleTonDesignPattern.AssemblyInfo.cs
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\obj\Debug\net8.0\SingleTonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\obj\Debug\net8.0\SingleTonDesignPattern.dll
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\obj\Debug\net8.0\refint\SingleTonDesignPattern.dll
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\obj\Debug\net8.0\SingleTonDesignPattern.pdb
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\obj\Debug\net8.0\SingleTonDesignPattern.genruntimeconfig.cache
+C:\Users\hp\source\repos\B24V#CodingStanderds\SingleTonDesignPattern\obj\Debug\net8.0\ref\SingleTonDesignPattern.dll
